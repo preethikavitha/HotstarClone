@@ -19,7 +19,7 @@ A clone of the popular streaming service Hotstar, created using HTML, CSS, and J
 ## Installation
 1. Clone the repository:
    
-    git clone https://github.com/preethikavitha/HotstarClone
+    git clone https://github.com/preethikavitha/HotstarClone.git
    
 3. Navigate to the project directory:
     
