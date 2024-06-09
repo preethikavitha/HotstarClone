@@ -18,13 +18,12 @@ A clone of the popular streaming service Hotstar, created using HTML, CSS, and J
 
 ## Installation
 1. Clone the repository:
-    ```bash
+   
     git clone https://github.com/preethikavitha/HotstarClone
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd hotstar-clone
-    ```
+   
+3. Navigate to the project directory:
+    
+    cd hotstar github
 
 ## Usage
 1. Open `index.html` in your preferred web browser to view the Hotstar clone.
